@@ -1,0 +1,1 @@
+my $var = undef;print $$var; #This will cause an error because undef is not a valid reference.
